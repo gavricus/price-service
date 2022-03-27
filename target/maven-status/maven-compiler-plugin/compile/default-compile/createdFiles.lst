@@ -1,0 +1,16 @@
+com/interview/price/interfaces/rest/dto/QuoteDto.class
+com/interview/price/interfaces/rest/dto/QuoteRequestDto.class
+com/interview/price/domain/model/entity/PriceList.class
+com/interview/price/interfaces/rest/dto/QuoteResponseDto.class
+com/interview/price/domain/model/entity/Brand.class
+com/interview/price/infrastructure/repository/PriceRepository.class
+com/interview/price/domain/model/entity/Product.class
+com/interview/price/interfaces/rest/PricesController.class
+com/interview/price/domain/model/entity/Currency.class
+com/interview/price/domain/model/aggregate/Price.class
+com/interview/price/interfaces/rest/dto/ApiResponse.class
+com/interview/price/application/config/ExceptionConfig.class
+com/interview/price/domain/model/entity/Currency$CurrencyId.class
+com/interview/price/application/service/PriceService.class
+com/interview/price/application/utils/MoneySerializer.class
+com/interview/price/Application.class
